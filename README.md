@@ -10,5 +10,5 @@
       SVM
 3.インストール<br>
 
-      git clone https://github.com/huyen153/face_recognition.git<br>
+      git clone https://github.com/huyen153/face_recognition.git
   
