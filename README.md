@@ -11,4 +11,6 @@
 3.インストール<br>
 
       git clone https://github.com/huyen153/face_recognition.git
-  
+4.結果
+<img src="https://user-images.githubusercontent.com/93967898/163311059-0292274d-71da-4ab7-9139-f4bbc9a30f36.png">
+      Support Vector Classification: Accuracy: train=0.901, val=0.880
